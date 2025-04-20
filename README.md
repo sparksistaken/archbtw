@@ -1,2 +1,2 @@
 # archbtw
-Clears ur entire terminal just to mention hat you use arch btw (btw)
+Clears ur entire terminal just to mention that you use arch btw (btw)
